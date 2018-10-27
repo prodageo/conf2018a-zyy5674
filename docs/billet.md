@@ -14,6 +14,7 @@
  - Auteur du billet : ...
  - Mots-clés
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
+   - quelques sources : https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence

@@ -15,13 +15,14 @@
  - URL de l'illustration : ![Photo par CodeurEnSeine sur Twitter](illustration.jpg)
 
 ## Support
+
  - Lien vers le support (diapos) présenté en conférence
  - Nombre de diapos du support : Non dispo
  - Plan du support :
-   -L'entreprise 
-   -Le site web avec recommandation
-   -Le système de recommandation 
-   -Les modifications à apporter
+   - L'entreprise 
+   - Le site web avec recommandation
+   - Le système de recommandation 
+   - Les modifications à apporter
 
 ## Résumé
 Vente-privée est un site d'achat spécialisé en 'Déstockage'. Son modèle commerçant est de proposer aux utilisateurs inscrits les produits à des prix réduits pendant une durée limitée. L'inscription est obligatoire pour consulter les produits et les marques disponibles. Chaque jour, Vente-Privée organise les événement de déstockage pour au moins 150 marques différentes.

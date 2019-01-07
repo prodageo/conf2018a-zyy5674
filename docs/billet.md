@@ -12,8 +12,7 @@
  - Audience : 50 à 100 personnes
  - Auteur du billet : Zhenghui Zhu
  - Mots-clés : Recommandation, User portrait, classement
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   
+ - URL de l'illustration : 
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
@@ -34,4 +33,4 @@ Le système fonctionne via Real-Time Activity Tracking With Kafka. Pour chaque p
 Le système se heurte pour le moment à certaines difficultés. En effet, l'électroménager est de loin la catégorie de produits la plus vendue et a tendance à trop influencer la prédiction des autres catégories. De plus, la répartition des articles en genre est parfois mauvaise dans certains cas.
 
 ## Architecture et facteur qualité
-La correction: L'essentiel du système de recommandation est de porposer des correctes produits aux corrects utilisateur pour assurer l'intérêt maximal.
+La correction: L'essentiel du système de recommandation est de proposer des correctes produits aux corrects utilisateur pour assurer l'intérêt maximal.

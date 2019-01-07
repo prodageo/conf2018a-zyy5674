@@ -12,7 +12,7 @@
  - Audience : 50 à 100 personnes
  - Auteur du billet : Zhenghui Zhu
  - Mots-clés : Recommandation, User portrait, classement
- - URL de l'illustration : 
+ - URL de l'illustration : https://github.com/prodageo/conf2018a-zyy5674/blob/master/docs/illustration.jpg?raw=true
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence

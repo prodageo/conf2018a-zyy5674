@@ -34,4 +34,4 @@ Le système fonctionne via Real-Time Activity Tracking With Kafka. Pour chaque p
 Le système se heurte pour le moment à certaines difficultés. En effet, l'électroménager est de loin la catégorie de produits la plus vendue et a tendance à trop influencer la prédiction des autres catégories. De plus, la répartition des articles en genre est parfois mauvaise dans certains cas.
 
 ## Architecture et facteur qualité
-...
+La correction: L'essentiel du système de recommandation est de porposer des correctes produits aux corrects utilisateur pour assurer l'intérêt maximal.
